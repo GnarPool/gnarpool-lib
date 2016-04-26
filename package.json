@@ -1,0 +1,23 @@
+{
+  "name": "gnarpool",
+  "version": "0.0.1",
+  "description": "A ride-share app",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/GnarPool/gnarpool-lib.git"
+  },
+  "author": "Jeremy Dormitzer and Zach Falen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.13"
+  }
+}
