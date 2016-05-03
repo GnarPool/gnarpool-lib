@@ -16,8 +16,13 @@
   "author": "Jeremy Dormitzer and Zach Falen",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.3.0",
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
-    "mongoose": "^4.4.13"
+    "mongoose": "^4.4.13",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.0",
+    "passport-google-oauth": "^1.0.0",
+    "passport-local": "^1.0.0"
   }
 }
